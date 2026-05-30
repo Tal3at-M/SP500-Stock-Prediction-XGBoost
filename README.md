@@ -28,15 +28,16 @@ Dataset Link: https://www.kaggle.com/datasets/innacampo/s-and-p-500-stocks-daily
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+* R
 * XGBoost
-* yFinance
-
+* ggplot2
+* dplyr
+* tidyr
+* caret
+* Data Mining
+* Statistical Analysis
+* Data Visualization
+* Time Series Analysis
 
 ## Project Workflow
 
